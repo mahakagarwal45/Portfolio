@@ -30,7 +30,7 @@ function Contact() {
           <h2 className="contact-heading">Contact Me</h2>
           <Form onSubmit={handleSubmit} className="contact-form">
             <Form.Group controlId="name">
-              <Form.Label>Name</Form.Label>
+              <Form.Label>Name:</Form.Label>
               <Form.Control
                 className="contact-input"
                 type="text"
@@ -43,7 +43,7 @@ function Contact() {
             </Form.Group>
 
             <Form.Group controlId="email">
-              <Form.Label>Email</Form.Label>
+              <Form.Label>Email:</Form.Label>
               <Form.Control
                 className="contact-input"
                 type="email"
@@ -56,7 +56,7 @@ function Contact() {
             </Form.Group>
 
             <Form.Group controlId="message">
-              <Form.Label>Message</Form.Label>
+              <Form.Label>Message:</Form.Label>
               <Form.Control
                 className="contact-input"
                 as="textarea"
