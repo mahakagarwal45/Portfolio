@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Mahak.vercel.app</a>
+  <a href="https://mahak.vercel.app/" target="_blank">Mahak.vercel.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/ui.png" />
@@ -72,3 +73,7 @@ If you'd like to connect, feel free to reach out via the contact form on the sit
 ⭐ Show Your Support
 
 If you found this helpful or liked the work, consider giving a star on the repo.
+=======
+# Portfolio
+🚀 Personal Portfolio built with React.js showcasing my projects, resume, and skills. Includes PDF viewer, project links, and a responsive design with interactive UI. Deployed and mobile-friendly. ✨
+>>>>>>> 5d867409630048e6be342c94607f96cdf9a436d6
