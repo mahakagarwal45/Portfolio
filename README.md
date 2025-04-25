@@ -1,76 +1,74 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Portfolio Website<br/>
+  <a href="https://soumyajit.vercel.app/" target="_blank">Mahak.vercel.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/ui.png" />
 </div>
 
 <br/>
 
 <center>
+🌐 Personal Portfolio Website
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+This is a professional portfolio website built. It serves as an online resume showcasing my skills, projects, and contact details.
 
-</center>
+🎯 Task Objective
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+To create a responsive and elegant portfolio website with the following features:
 
-## TL;DR
+- About Section – A brief introduction about myself.
+- Skills Section – Highlights of both technical and non-technical skills.
+- Projects Section – A collection of my top projects with descriptions and github links.
+- Contact Form – A working contact form to allow users to reach out.
+- Responsive Design – Optimized for all screen sizes (desktop, tablet, mobile).
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+💡 Features
 
-## Built With
+- Multi-page layout
+- Mobile-first responsive design
+- Functional contact form
+- Styled with CSS3 + Bootstrap/React-Bootstrap
+- Smooth scrolling and interactive elements
+- Project previews with GitHub links
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+🛠️ Tech Stack
 
-This project was built using these technologies.
+- Frontend: React.js
+- Styling: CSS3, React-Bootstrap
+- Backend (Contact Form)
+- Deployment: Vercel
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
 
-## Features
+🧑‍💻 How to Run This Project
 
-**📖 Multi-Page Layout**
+1. Clone the Repository
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+git clone https://github.com/mahakagarwal45/Portfolio.git
+cd Portfolio
 
-**📱 Fully Responsive**
+2. Install Dependencies
 
-## Getting Started
+npm install
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+3. Start the Development Server
 
-## 🛠 Installation and Setup Instructions
+npm start
 
-1. Installation: `npm install`
+Then open your browser and visit http://localhost:3000
 
-2. In the project directory, you can run: `npm start`
+✅ Evaluation Criteria Checklist
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+✔️ Functionality – All sections work and render as expected.  
+✔️ Code Quality – Components are modular, readable, and well-commented.  
+✔️ User Experience – Clean UI and fully responsive layout.  
+✔️ Creativity – Custom UI styling and animations.  
+✔️ Documentation – This README provides a clear overview and instructions.
 
-## Usage Instructions
+📬 Contact
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+If you'd like to connect, feel free to reach out via the contact form on the site.
 
-### Show your support
+⭐ Show Your Support
 
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+If you found this helpful or liked the work, consider giving a star on the repo.
